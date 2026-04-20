@@ -1,0 +1,1889 @@
+{
+  "allData": {
+    "2022-01": {
+      "income": 160465,
+      "savingsGoal": 32961,
+      "expenses": [
+        {
+          "id": "cs2oy3h",
+          "name": "Кафе и рестораны",
+          "amount": 5675
+        },
+        {
+          "id": "2h3ua1h",
+          "name": "Продукты питания",
+          "amount": 11608
+        },
+        {
+          "id": "tm1ycma",
+          "name": "Автомобиль",
+          "amount": 14638
+        },
+        {
+          "id": "c0dnibb",
+          "name": "Хобби",
+          "amount": 22354
+        },
+        {
+          "id": "c94zneg",
+          "name": "Интернет и связь",
+          "amount": 5659
+        }
+      ]
+    },
+    "2022-02": {
+      "income": 172271,
+      "savingsGoal": 31023,
+      "expenses": [
+        {
+          "id": "cq2loia",
+          "name": "Одежда",
+          "amount": 21292
+        },
+        {
+          "id": "au69spb",
+          "name": "Интернет и связь",
+          "amount": 8052
+        },
+        {
+          "id": "mwumcdk",
+          "name": "Хобби",
+          "amount": 18119
+        },
+        {
+          "id": "5c6qw25",
+          "name": "Аптека",
+          "amount": 9717
+        },
+        {
+          "id": "93uolwe",
+          "name": "Продукты питания",
+          "amount": 8224
+        },
+        {
+          "id": "4rzz823",
+          "name": "Кафе и рестораны",
+          "amount": 11181
+        },
+        {
+          "id": "ma4xcyg",
+          "name": "Аренда",
+          "amount": 22632
+        },
+        {
+          "id": "4rmqigt",
+          "name": "Автомобиль",
+          "amount": 14582
+        }
+      ]
+    },
+    "2022-03": {
+      "income": 105691,
+      "savingsGoal": 23394,
+      "expenses": [
+        {
+          "id": "16vxl71",
+          "name": "Аптека",
+          "amount": 6815
+        },
+        {
+          "id": "efkvqw4",
+          "name": "Хобби",
+          "amount": 5627
+        },
+        {
+          "id": "js7k3h1",
+          "name": "Автомобиль",
+          "amount": 20180
+        },
+        {
+          "id": "3z6r50l",
+          "name": "Одежда",
+          "amount": 15534
+        },
+        {
+          "id": "s5t7svp",
+          "name": "Кафе и рестораны",
+          "amount": 17447
+        }
+      ]
+    },
+    "2022-04": {
+      "income": 130804,
+      "savingsGoal": 26619,
+      "expenses": [
+        {
+          "id": "nr9qjly",
+          "name": "Продукты питания",
+          "amount": 12247
+        },
+        {
+          "id": "budrwrw",
+          "name": "Аптека",
+          "amount": 17602
+        },
+        {
+          "id": "5goyy85",
+          "name": "Интернет и связь",
+          "amount": 8182
+        },
+        {
+          "id": "mkd2bvs",
+          "name": "Одежда",
+          "amount": 9633
+        },
+        {
+          "id": "jl87lgw",
+          "name": "Автомобиль",
+          "amount": 14551
+        },
+        {
+          "id": "ngw7mh3",
+          "name": "Аренда",
+          "amount": 7620
+        },
+        {
+          "id": "7yb7lme",
+          "name": "Кафе и рестораны",
+          "amount": 21355
+        }
+      ]
+    },
+    "2022-05": {
+      "income": 117670,
+      "savingsGoal": 15441,
+      "expenses": [
+        {
+          "id": "ni790n8",
+          "name": "Одежда",
+          "amount": 7538
+        },
+        {
+          "id": "uejlroj",
+          "name": "Кафе и рестораны",
+          "amount": 8840
+        },
+        {
+          "id": "e0xn29k",
+          "name": "Автомобиль",
+          "amount": 9756
+        },
+        {
+          "id": "uqjc5ef",
+          "name": "Аптека",
+          "amount": 19128
+        },
+        {
+          "id": "e2eziio",
+          "name": "Аренда",
+          "amount": 20955
+        },
+        {
+          "id": "ri7tvtu",
+          "name": "Крупная/Спонтанная покупка",
+          "amount": 45928
+        }
+      ]
+    },
+    "2022-06": {
+      "income": 163938,
+      "savingsGoal": 33303,
+      "expenses": [
+        {
+          "id": "svzqmlp",
+          "name": "Аптека",
+          "amount": 4631
+        },
+        {
+          "id": "qbzqc94",
+          "name": "Автомобиль",
+          "amount": 10482
+        },
+        {
+          "id": "rilutp4",
+          "name": "Одежда",
+          "amount": 9964
+        },
+        {
+          "id": "zfvc67s",
+          "name": "Кафе и рестораны",
+          "amount": 18324
+        },
+        {
+          "id": "iulhz12",
+          "name": "Хобби",
+          "amount": 8610
+        },
+        {
+          "id": "5jw6l2o",
+          "name": "Интернет и связь",
+          "amount": 9894
+        },
+        {
+          "id": "iis86z0",
+          "name": "Аренда",
+          "amount": 3814
+        },
+        {
+          "id": "y0tsg2w",
+          "name": "Транспорт",
+          "amount": 5042
+        }
+      ]
+    },
+    "2022-07": {
+      "income": 122054,
+      "savingsGoal": 26342,
+      "expenses": [
+        {
+          "id": "22m8iqg",
+          "name": "Кафе и рестораны",
+          "amount": 12535
+        },
+        {
+          "id": "pqlgsln",
+          "name": "Интернет и связь",
+          "amount": 12248
+        },
+        {
+          "id": "9e7ij28",
+          "name": "Аренда",
+          "amount": 7434
+        },
+        {
+          "id": "xbfznax",
+          "name": "Аптека",
+          "amount": 8281
+        },
+        {
+          "id": "nsq21wf",
+          "name": "Хобби",
+          "amount": 13241
+        },
+        {
+          "id": "ksq68vu",
+          "name": "Транспорт",
+          "amount": 7103
+        },
+        {
+          "id": "gkt1o2s",
+          "name": "Крупная/Спонтанная покупка",
+          "amount": 52157
+        }
+      ]
+    },
+    "2022-08": {
+      "income": 167360,
+      "savingsGoal": 35350,
+      "expenses": [
+        {
+          "id": "tcqh5wc",
+          "name": "Аптека",
+          "amount": 9507
+        },
+        {
+          "id": "3rycvzj",
+          "name": "Хобби",
+          "amount": 3516
+        },
+        {
+          "id": "gwrto8z",
+          "name": "Автомобиль",
+          "amount": 11906
+        },
+        {
+          "id": "wbc4ct9",
+          "name": "Интернет и связь",
+          "amount": 18289
+        },
+        {
+          "id": "uhx86py",
+          "name": "Кафе и рестораны",
+          "amount": 16013
+        }
+      ]
+    },
+    "2022-09": {
+      "income": 136510,
+      "savingsGoal": 15852,
+      "expenses": [
+        {
+          "id": "io31y30",
+          "name": "Хобби",
+          "amount": 10143
+        },
+        {
+          "id": "fp620b8",
+          "name": "Транспорт",
+          "amount": 13409
+        },
+        {
+          "id": "a7zzlc9",
+          "name": "Автомобиль",
+          "amount": 8451
+        },
+        {
+          "id": "m6le155",
+          "name": "Продукты питания",
+          "amount": 9256
+        },
+        {
+          "id": "7zcmhd3",
+          "name": "Аренда",
+          "amount": 20638
+        },
+        {
+          "id": "mg67682",
+          "name": "Кафе и рестораны",
+          "amount": 15363
+        },
+        {
+          "id": "4upyfs5",
+          "name": "Одежда",
+          "amount": 13846
+        },
+        {
+          "id": "t2obab9",
+          "name": "Интернет и связь",
+          "amount": 8340
+        }
+      ]
+    },
+    "2022-10": {
+      "income": 182133,
+      "savingsGoal": 22850,
+      "expenses": [
+        {
+          "id": "6at6dnh",
+          "name": "Продукты питания",
+          "amount": 3912
+        },
+        {
+          "id": "sde76z1",
+          "name": "Кафе и рестораны",
+          "amount": 4512
+        },
+        {
+          "id": "4dp7yfc",
+          "name": "Автомобиль",
+          "amount": 20707
+        },
+        {
+          "id": "foogdx2",
+          "name": "Аптека",
+          "amount": 14582
+        },
+        {
+          "id": "pwenohs",
+          "name": "Интернет и связь",
+          "amount": 4421
+        },
+        {
+          "id": "vsj36pg",
+          "name": "Крупная/Спонтанная покупка",
+          "amount": 127550
+        }
+      ]
+    },
+    "2022-11": {
+      "income": 149106,
+      "savingsGoal": 37156,
+      "expenses": [
+        {
+          "id": "16pnfe5",
+          "name": "Хобби",
+          "amount": 9873
+        },
+        {
+          "id": "052w13l",
+          "name": "Кафе и рестораны",
+          "amount": 3991
+        },
+        {
+          "id": "s72q1g6",
+          "name": "Транспорт",
+          "amount": 16278
+        },
+        {
+          "id": "wg2v3j3",
+          "name": "Интернет и связь",
+          "amount": 8349
+        },
+        {
+          "id": "41cwlhx",
+          "name": "Аптека",
+          "amount": 9072
+        }
+      ]
+    },
+    "2022-12": {
+      "income": 145867,
+      "savingsGoal": 27122,
+      "expenses": [
+        {
+          "id": "plxa43u",
+          "name": "Кафе и рестораны",
+          "amount": 9046
+        },
+        {
+          "id": "58qxr8m",
+          "name": "Одежда",
+          "amount": 19991
+        },
+        {
+          "id": "1jnop0b",
+          "name": "Аренда",
+          "amount": 15483
+        },
+        {
+          "id": "ok6twmp",
+          "name": "Продукты питания",
+          "amount": 21290
+        }
+      ]
+    },
+    "2023-01": {
+      "income": 169085,
+      "savingsGoal": 19823,
+      "expenses": [
+        {
+          "id": "hj3a6ir",
+          "name": "Интернет и связь",
+          "amount": 11627
+        },
+        {
+          "id": "eh3qoua",
+          "name": "Кафе и рестораны",
+          "amount": 22461
+        },
+        {
+          "id": "uwaz1h5",
+          "name": "Хобби",
+          "amount": 12465
+        },
+        {
+          "id": "ufo2tdo",
+          "name": "Аптека",
+          "amount": 7487
+        },
+        {
+          "id": "wfbit2f",
+          "name": "Автомобиль",
+          "amount": 17826
+        },
+        {
+          "id": "zvxagll",
+          "name": "Крупная/Спонтанная покупка",
+          "amount": 82131
+        }
+      ]
+    },
+    "2023-02": {
+      "income": 169658,
+      "savingsGoal": 37364,
+      "expenses": [
+        {
+          "id": "dirvqyi",
+          "name": "Хобби",
+          "amount": 10760
+        },
+        {
+          "id": "ok0zk08",
+          "name": "Кафе и рестораны",
+          "amount": 12034
+        },
+        {
+          "id": "y01piol",
+          "name": "Автомобиль",
+          "amount": 6063
+        },
+        {
+          "id": "n8vfj7i",
+          "name": "Транспорт",
+          "amount": 4842
+        },
+        {
+          "id": "3v5cfqk",
+          "name": "Интернет и связь",
+          "amount": 14034
+        },
+        {
+          "id": "ruggsqo",
+          "name": "Продукты питания",
+          "amount": 17906
+        },
+        {
+          "id": "s6mgrts",
+          "name": "Одежда",
+          "amount": 9963
+        },
+        {
+          "id": "c5e0mam",
+          "name": "Аренда",
+          "amount": 18137
+        },
+        {
+          "id": "z8lga36",
+          "name": "Крупная/Спонтанная покупка",
+          "amount": 52208
+        }
+      ]
+    },
+    "2023-03": {
+      "income": 116575,
+      "savingsGoal": 17038,
+      "expenses": [
+        {
+          "id": "kjpez43",
+          "name": "Хобби",
+          "amount": 4440
+        },
+        {
+          "id": "nn6r18q",
+          "name": "Аптека",
+          "amount": 5365
+        },
+        {
+          "id": "ybqvwqz",
+          "name": "Автомобиль",
+          "amount": 17289
+        },
+        {
+          "id": "pdkeyjo",
+          "name": "Кафе и рестораны",
+          "amount": 15297
+        },
+        {
+          "id": "fwjcocf",
+          "name": "Интернет и связь",
+          "amount": 6568
+        }
+      ]
+    },
+    "2023-04": {
+      "income": 164937,
+      "savingsGoal": 19458,
+      "expenses": [
+        {
+          "id": "ax3vhgc",
+          "name": "Автомобиль",
+          "amount": 12005
+        },
+        {
+          "id": "7dn4e73",
+          "name": "Кафе и рестораны",
+          "amount": 3395
+        },
+        {
+          "id": "k5u69y5",
+          "name": "Интернет и связь",
+          "amount": 18514
+        },
+        {
+          "id": "4iagzss",
+          "name": "Хобби",
+          "amount": 12359
+        },
+        {
+          "id": "9epu1yq",
+          "name": "Одежда",
+          "amount": 19726
+        },
+        {
+          "id": "gz1j5ve",
+          "name": "Продукты питания",
+          "amount": 19777
+        },
+        {
+          "id": "9irscu3",
+          "name": "Аренда",
+          "amount": 16667
+        },
+        {
+          "id": "7ov47yx",
+          "name": "Аптека",
+          "amount": 21728
+        },
+        {
+          "id": "8j3f5xi",
+          "name": "Крупная/Спонтанная покупка",
+          "amount": 35357
+        }
+      ]
+    },
+    "2023-05": {
+      "income": 122381,
+      "savingsGoal": 16495,
+      "expenses": [
+        {
+          "id": "t8puo0b",
+          "name": "Кафе и рестораны",
+          "amount": 21165
+        },
+        {
+          "id": "9ouf9k6",
+          "name": "Интернет и связь",
+          "amount": 7176
+        },
+        {
+          "id": "di7zefi",
+          "name": "Автомобиль",
+          "amount": 8531
+        },
+        {
+          "id": "a4bacl9",
+          "name": "Продукты питания",
+          "amount": 7645
+        }
+      ]
+    },
+    "2023-06": {
+      "income": 195081,
+      "savingsGoal": 38057,
+      "expenses": [
+        {
+          "id": "kcg7bw8",
+          "name": "Кафе и рестораны",
+          "amount": 22499
+        },
+        {
+          "id": "nds215e",
+          "name": "Транспорт",
+          "amount": 19542
+        },
+        {
+          "id": "2dkytlg",
+          "name": "Автомобиль",
+          "amount": 6136
+        },
+        {
+          "id": "jr6m98w",
+          "name": "Одежда",
+          "amount": 20779
+        }
+      ]
+    },
+    "2023-07": {
+      "income": 179874,
+      "savingsGoal": 37621,
+      "expenses": [
+        {
+          "id": "fldfbiv",
+          "name": "Одежда",
+          "amount": 3015
+        },
+        {
+          "id": "fodg9hl",
+          "name": "Хобби",
+          "amount": 13221
+        },
+        {
+          "id": "tyg93xr",
+          "name": "Аренда",
+          "amount": 6944
+        },
+        {
+          "id": "07bjdvv",
+          "name": "Аптека",
+          "amount": 17422
+        },
+        {
+          "id": "hh6mxuy",
+          "name": "Продукты питания",
+          "amount": 8397
+        },
+        {
+          "id": "k2kje7o",
+          "name": "Автомобиль",
+          "amount": 3464
+        }
+      ]
+    },
+    "2023-08": {
+      "income": 176585,
+      "savingsGoal": 30202,
+      "expenses": [
+        {
+          "id": "1k22tow",
+          "name": "Транспорт",
+          "amount": 17360
+        },
+        {
+          "id": "volz0lt",
+          "name": "Одежда",
+          "amount": 6739
+        },
+        {
+          "id": "zngcj0z",
+          "name": "Кафе и рестораны",
+          "amount": 8840
+        },
+        {
+          "id": "unqx1rl",
+          "name": "Хобби",
+          "amount": 12897
+        },
+        {
+          "id": "jcvehz6",
+          "name": "Интернет и связь",
+          "amount": 5275
+        },
+        {
+          "id": "m575wxc",
+          "name": "Автомобиль",
+          "amount": 7167
+        },
+        {
+          "id": "k21tatb",
+          "name": "Аптека",
+          "amount": 9917
+        },
+        {
+          "id": "wxiix0n",
+          "name": "Продукты питания",
+          "amount": 11829
+        },
+        {
+          "id": "ewsou50",
+          "name": "Крупная/Спонтанная покупка",
+          "amount": 73613
+        }
+      ]
+    },
+    "2023-09": {
+      "income": 122197,
+      "savingsGoal": 15931,
+      "expenses": [
+        {
+          "id": "wqh5lnp",
+          "name": "Автомобиль",
+          "amount": 10682
+        },
+        {
+          "id": "psialxm",
+          "name": "Хобби",
+          "amount": 17236
+        },
+        {
+          "id": "wrd79wf",
+          "name": "Интернет и связь",
+          "amount": 14391
+        },
+        {
+          "id": "t2qd60s",
+          "name": "Аренда",
+          "amount": 13224
+        }
+      ]
+    },
+    "2023-10": {
+      "income": 131873,
+      "savingsGoal": 17153,
+      "expenses": [
+        {
+          "id": "w08mczu",
+          "name": "Одежда",
+          "amount": 14806
+        },
+        {
+          "id": "0nur92o",
+          "name": "Кафе и рестораны",
+          "amount": 4090
+        },
+        {
+          "id": "huj58w3",
+          "name": "Автомобиль",
+          "amount": 8738
+        },
+        {
+          "id": "ryukmxk",
+          "name": "Аптека",
+          "amount": 18315
+        }
+      ]
+    },
+    "2023-11": {
+      "income": 105358,
+      "savingsGoal": 15917,
+      "expenses": [
+        {
+          "id": "zhka2x5",
+          "name": "Одежда",
+          "amount": 5586
+        },
+        {
+          "id": "vlyf71f",
+          "name": "Автомобиль",
+          "amount": 4001
+        },
+        {
+          "id": "y8pf6vf",
+          "name": "Кафе и рестораны",
+          "amount": 14903
+        },
+        {
+          "id": "p8z272r",
+          "name": "Хобби",
+          "amount": 20403
+        }
+      ]
+    },
+    "2023-12": {
+      "income": 132113,
+      "savingsGoal": 22353,
+      "expenses": [
+        {
+          "id": "s9zg8wm",
+          "name": "Хобби",
+          "amount": 21407
+        },
+        {
+          "id": "o6iuo02",
+          "name": "Одежда",
+          "amount": 15343
+        },
+        {
+          "id": "x7umugd",
+          "name": "Аренда",
+          "amount": 11216
+        },
+        {
+          "id": "venulb7",
+          "name": "Кафе и рестораны",
+          "amount": 11213
+        },
+        {
+          "id": "d1e5gu8",
+          "name": "Продукты питания",
+          "amount": 7188
+        },
+        {
+          "id": "qefbmyi",
+          "name": "Интернет и связь",
+          "amount": 7470
+        },
+        {
+          "id": "yoqail3",
+          "name": "Транспорт",
+          "amount": 8306
+        }
+      ]
+    },
+    "2024-01": {
+      "income": 133179,
+      "savingsGoal": 26055,
+      "expenses": [
+        {
+          "id": "t0mydla",
+          "name": "Автомобиль",
+          "amount": 17259
+        },
+        {
+          "id": "1ol67oj",
+          "name": "Хобби",
+          "amount": 22556
+        },
+        {
+          "id": "vzy7p9d",
+          "name": "Аптека",
+          "amount": 17432
+        },
+        {
+          "id": "nxj9aj4",
+          "name": "Интернет и связь",
+          "amount": 13492
+        },
+        {
+          "id": "t1mt4y0",
+          "name": "Транспорт",
+          "amount": 20721
+        },
+        {
+          "id": "glea6s0",
+          "name": "Продукты питания",
+          "amount": 11810
+        },
+        {
+          "id": "777z8oa",
+          "name": "Аренда",
+          "amount": 20550
+        },
+        {
+          "id": "kp677z9",
+          "name": "Кафе и рестораны",
+          "amount": 8724
+        },
+        {
+          "id": "2p70679",
+          "name": "Крупная/Спонтанная покупка",
+          "amount": -16819
+        }
+      ]
+    },
+    "2024-02": {
+      "income": 131742,
+      "savingsGoal": 27653,
+      "expenses": [
+        {
+          "id": "hhq6gvz",
+          "name": "Аренда",
+          "amount": 18850
+        },
+        {
+          "id": "prxj21x",
+          "name": "Продукты питания",
+          "amount": 14782
+        },
+        {
+          "id": "dp05rev",
+          "name": "Аптека",
+          "amount": 8889
+        },
+        {
+          "id": "rmacypc",
+          "name": "Кафе и рестораны",
+          "amount": 8640
+        },
+        {
+          "id": "rnkx54n",
+          "name": "Автомобиль",
+          "amount": 10267
+        },
+        {
+          "id": "0jlqi1w",
+          "name": "Транспорт",
+          "amount": 22804
+        },
+        {
+          "id": "g2f2ure",
+          "name": "Хобби",
+          "amount": 7551
+        },
+        {
+          "id": "h4fzr3h",
+          "name": "Интернет и связь",
+          "amount": 11682
+        }
+      ]
+    },
+    "2024-03": {
+      "income": 167810,
+      "savingsGoal": 36443,
+      "expenses": [
+        {
+          "id": "zagco3y",
+          "name": "Аптека",
+          "amount": 18363
+        },
+        {
+          "id": "9pjw2gw",
+          "name": "Хобби",
+          "amount": 6223
+        },
+        {
+          "id": "jkw96n7",
+          "name": "Автомобиль",
+          "amount": 19961
+        },
+        {
+          "id": "itpv99x",
+          "name": "Аренда",
+          "amount": 4945
+        },
+        {
+          "id": "gikduvj",
+          "name": "Продукты питания",
+          "amount": 5629
+        },
+        {
+          "id": "c1gkcng",
+          "name": "Одежда",
+          "amount": 20531
+        }
+      ]
+    },
+    "2024-04": {
+      "income": 198593,
+      "savingsGoal": 42332,
+      "expenses": [
+        {
+          "id": "804jil0",
+          "name": "Кафе и рестораны",
+          "amount": 11272
+        },
+        {
+          "id": "v1isvdc",
+          "name": "Транспорт",
+          "amount": 10671
+        },
+        {
+          "id": "rno55sp",
+          "name": "Интернет и связь",
+          "amount": 19719
+        },
+        {
+          "id": "zx7cp5d",
+          "name": "Автомобиль",
+          "amount": 19780
+        },
+        {
+          "id": "13j3gv6",
+          "name": "Продукты питания",
+          "amount": 14643
+        },
+        {
+          "id": "e60rkpl",
+          "name": "Аптека",
+          "amount": 7002
+        },
+        {
+          "id": "s500hpj",
+          "name": "Одежда",
+          "amount": 10643
+        }
+      ]
+    },
+    "2024-05": {
+      "income": 115208,
+      "savingsGoal": 25902,
+      "expenses": [
+        {
+          "id": "ytihdwy",
+          "name": "Кафе и рестораны",
+          "amount": 15441
+        },
+        {
+          "id": "6q278mt",
+          "name": "Транспорт",
+          "amount": 19862
+        },
+        {
+          "id": "1catyek",
+          "name": "Интернет и связь",
+          "amount": 20960
+        },
+        {
+          "id": "24mntyb",
+          "name": "Продукты питания",
+          "amount": 5258
+        },
+        {
+          "id": "jvrdipi",
+          "name": "Автомобиль",
+          "amount": 20410
+        },
+        {
+          "id": "hudlmxz",
+          "name": "Аренда",
+          "amount": 17177
+        }
+      ]
+    },
+    "2024-06": {
+      "income": 100765,
+      "savingsGoal": 14493,
+      "expenses": [
+        {
+          "id": "2cjk7g4",
+          "name": "Транспорт",
+          "amount": 19236
+        },
+        {
+          "id": "8s22r5d",
+          "name": "Хобби",
+          "amount": 22973
+        },
+        {
+          "id": "e1jcj0r",
+          "name": "Интернет и связь",
+          "amount": 13374
+        },
+        {
+          "id": "dzrdjjy",
+          "name": "Автомобиль",
+          "amount": 21211
+        },
+        {
+          "id": "s8lxnoo",
+          "name": "Аренда",
+          "amount": 21347
+        },
+        {
+          "id": "u6dwj9q",
+          "name": "Аптека",
+          "amount": 17175
+        },
+        {
+          "id": "8f280lw",
+          "name": "Одежда",
+          "amount": 21758
+        }
+      ]
+    },
+    "2024-07": {
+      "income": 168687,
+      "savingsGoal": 34837,
+      "expenses": [
+        {
+          "id": "cvz5e3p",
+          "name": "Транспорт",
+          "amount": 5665
+        },
+        {
+          "id": "lie944e",
+          "name": "Автомобиль",
+          "amount": 3736
+        },
+        {
+          "id": "xer0wjs",
+          "name": "Кафе и рестораны",
+          "amount": 12887
+        },
+        {
+          "id": "my5hyop",
+          "name": "Интернет и связь",
+          "amount": 14087
+        },
+        {
+          "id": "tvmo2pl",
+          "name": "Одежда",
+          "amount": 13991
+        }
+      ]
+    },
+    "2024-08": {
+      "income": 134035,
+      "savingsGoal": 24952,
+      "expenses": [
+        {
+          "id": "jyziv9t",
+          "name": "Интернет и связь",
+          "amount": 7698
+        },
+        {
+          "id": "nvr6l5x",
+          "name": "Транспорт",
+          "amount": 11434
+        },
+        {
+          "id": "wws5mff",
+          "name": "Одежда",
+          "amount": 17116
+        },
+        {
+          "id": "ykyk1fx",
+          "name": "Кафе и рестораны",
+          "amount": 5812
+        },
+        {
+          "id": "ysh069f",
+          "name": "Аптека",
+          "amount": 22837
+        }
+      ]
+    },
+    "2024-09": {
+      "income": 184064,
+      "savingsGoal": 23527,
+      "expenses": [
+        {
+          "id": "f8gas3r",
+          "name": "Автомобиль",
+          "amount": 8065
+        },
+        {
+          "id": "cv7dzaq",
+          "name": "Транспорт",
+          "amount": 17335
+        },
+        {
+          "id": "a3fhehq",
+          "name": "Одежда",
+          "amount": 18752
+        },
+        {
+          "id": "hsagx48",
+          "name": "Аренда",
+          "amount": 18685
+        },
+        {
+          "id": "vaxi27n",
+          "name": "Продукты питания",
+          "amount": 9988
+        },
+        {
+          "id": "jauqycb",
+          "name": "Аптека",
+          "amount": 3288
+        },
+        {
+          "id": "xkpt7e4",
+          "name": "Интернет и связь",
+          "amount": 14713
+        },
+        {
+          "id": "q9n8iov",
+          "name": "Крупная/Спонтанная покупка",
+          "amount": 77912
+        }
+      ]
+    },
+    "2024-10": {
+      "income": 157693,
+      "savingsGoal": 32997,
+      "expenses": [
+        {
+          "id": "72hd1o6",
+          "name": "Аптека",
+          "amount": 19370
+        },
+        {
+          "id": "3ejebne",
+          "name": "Транспорт",
+          "amount": 6514
+        },
+        {
+          "id": "t7dks0h",
+          "name": "Одежда",
+          "amount": 4870
+        },
+        {
+          "id": "fofkeq8",
+          "name": "Интернет и связь",
+          "amount": 11710
+        }
+      ]
+    },
+    "2024-11": {
+      "income": 151735,
+      "savingsGoal": 26740,
+      "expenses": [
+        {
+          "id": "tbzpycu",
+          "name": "Автомобиль",
+          "amount": 4460
+        },
+        {
+          "id": "nxgu9n6",
+          "name": "Аренда",
+          "amount": 9620
+        },
+        {
+          "id": "dqmxw8y",
+          "name": "Продукты питания",
+          "amount": 14381
+        },
+        {
+          "id": "8nev3sm",
+          "name": "Одежда",
+          "amount": 20004
+        },
+        {
+          "id": "iwjjmqy",
+          "name": "Интернет и связь",
+          "amount": 21393
+        },
+        {
+          "id": "dqyurfi",
+          "name": "Хобби",
+          "amount": 15819
+        }
+      ]
+    },
+    "2024-12": {
+      "income": 168193,
+      "savingsGoal": 33696,
+      "expenses": [
+        {
+          "id": "kp2v5dk",
+          "name": "Хобби",
+          "amount": 9240
+        },
+        {
+          "id": "mw47y9h",
+          "name": "Интернет и связь",
+          "amount": 15918
+        },
+        {
+          "id": "2j79vzp",
+          "name": "Продукты питания",
+          "amount": 9368
+        },
+        {
+          "id": "hezgnb1",
+          "name": "Транспорт",
+          "amount": 17548
+        }
+      ]
+    },
+    "2025-01": {
+      "income": 178363,
+      "savingsGoal": 20631,
+      "expenses": [
+        {
+          "id": "dgdc9w6",
+          "name": "Кафе и рестораны",
+          "amount": 15405
+        },
+        {
+          "id": "5tey67q",
+          "name": "Автомобиль",
+          "amount": 5851
+        },
+        {
+          "id": "23upqbe",
+          "name": "Хобби",
+          "amount": 10720
+        },
+        {
+          "id": "fuhzg29",
+          "name": "Транспорт",
+          "amount": 19959
+        },
+        {
+          "id": "rifb7s6",
+          "name": "Интернет и связь",
+          "amount": 20005
+        },
+        {
+          "id": "wf0q8ck",
+          "name": "Одежда",
+          "amount": 22274
+        }
+      ]
+    },
+    "2025-02": {
+      "income": 168216,
+      "savingsGoal": 31105,
+      "expenses": [
+        {
+          "id": "n3hi7qi",
+          "name": "Хобби",
+          "amount": 3464
+        },
+        {
+          "id": "u7zzr1u",
+          "name": "Автомобиль",
+          "amount": 13474
+        },
+        {
+          "id": "g6uw5p8",
+          "name": "Транспорт",
+          "amount": 8479
+        },
+        {
+          "id": "vty1sh7",
+          "name": "Интернет и связь",
+          "amount": 7118
+        },
+        {
+          "id": "izii2yi",
+          "name": "Кафе и рестораны",
+          "amount": 17959
+        },
+        {
+          "id": "0uy0dd7",
+          "name": "Аптека",
+          "amount": 6775
+        },
+        {
+          "id": "jyfwk4b",
+          "name": "Одежда",
+          "amount": 12852
+        },
+        {
+          "id": "plb69aq",
+          "name": "Аренда",
+          "amount": 22642
+        }
+      ]
+    },
+    "2025-03": {
+      "income": 180798,
+      "savingsGoal": 21247,
+      "expenses": [
+        {
+          "id": "t8p0lzc",
+          "name": "Одежда",
+          "amount": 3902
+        },
+        {
+          "id": "51sqg1i",
+          "name": "Автомобиль",
+          "amount": 11409
+        },
+        {
+          "id": "3yqhf0s",
+          "name": "Кафе и рестораны",
+          "amount": 20359
+        },
+        {
+          "id": "co3fdf4",
+          "name": "Аренда",
+          "amount": 6382
+        },
+        {
+          "id": "jwft9cz",
+          "name": "Продукты питания",
+          "amount": 11795
+        },
+        {
+          "id": "dvozgrw",
+          "name": "Транспорт",
+          "amount": 19401
+        },
+        {
+          "id": "mizmg2z",
+          "name": "Хобби",
+          "amount": 18226
+        },
+        {
+          "id": "r3qm998",
+          "name": "Крупная/Спонтанная покупка",
+          "amount": 85646
+        }
+      ]
+    },
+    "2025-04": {
+      "income": 160297,
+      "savingsGoal": 38226,
+      "expenses": [
+        {
+          "id": "30jeb3e",
+          "name": "Хобби",
+          "amount": 16870
+        },
+        {
+          "id": "fdykvdr",
+          "name": "Интернет и связь",
+          "amount": 19316
+        },
+        {
+          "id": "aqt26r6",
+          "name": "Транспорт",
+          "amount": 18473
+        },
+        {
+          "id": "a7t8111",
+          "name": "Автомобиль",
+          "amount": 22105
+        },
+        {
+          "id": "fxl08ay",
+          "name": "Аренда",
+          "amount": 6790
+        },
+        {
+          "id": "jl5p4ju",
+          "name": "Аптека",
+          "amount": 5186
+        }
+      ]
+    },
+    "2025-05": {
+      "income": 105801,
+      "savingsGoal": 11924,
+      "expenses": [
+        {
+          "id": "gutu4x7",
+          "name": "Кафе и рестораны",
+          "amount": 17890
+        },
+        {
+          "id": "0s2lxvb",
+          "name": "Транспорт",
+          "amount": 22540
+        },
+        {
+          "id": "gr77g71",
+          "name": "Хобби",
+          "amount": 20381
+        },
+        {
+          "id": "e2mbmet",
+          "name": "Одежда",
+          "amount": 12637
+        },
+        {
+          "id": "bvw12ce",
+          "name": "Интернет и связь",
+          "amount": 7451
+        }
+      ]
+    },
+    "2025-06": {
+      "income": 104564,
+      "savingsGoal": 19485,
+      "expenses": [
+        {
+          "id": "9g52cr4",
+          "name": "Интернет и связь",
+          "amount": 11776
+        },
+        {
+          "id": "od1i19k",
+          "name": "Автомобиль",
+          "amount": 20432
+        },
+        {
+          "id": "b8fuhka",
+          "name": "Хобби",
+          "amount": 10908
+        },
+        {
+          "id": "mkuxkce",
+          "name": "Кафе и рестораны",
+          "amount": 3216
+        },
+        {
+          "id": "02xy4m0",
+          "name": "Транспорт",
+          "amount": 13124
+        },
+        {
+          "id": "wwp8l6p",
+          "name": "Аптека",
+          "amount": 13654
+        },
+        {
+          "id": "zbxwknt",
+          "name": "Одежда",
+          "amount": 15728
+        }
+      ]
+    },
+    "2025-07": {
+      "income": 167455,
+      "savingsGoal": 25846,
+      "expenses": [
+        {
+          "id": "fbovt8y",
+          "name": "Аренда",
+          "amount": 18759
+        },
+        {
+          "id": "6g703i9",
+          "name": "Кафе и рестораны",
+          "amount": 7121
+        },
+        {
+          "id": "oc5bvkt",
+          "name": "Автомобиль",
+          "amount": 11610
+        },
+        {
+          "id": "46p1alo",
+          "name": "Продукты питания",
+          "amount": 16065
+        },
+        {
+          "id": "18dev81",
+          "name": "Аптека",
+          "amount": 5306
+        }
+      ]
+    },
+    "2025-08": {
+      "income": 187328,
+      "savingsGoal": 33061,
+      "expenses": [
+        {
+          "id": "r16yayc",
+          "name": "Автомобиль",
+          "amount": 12540
+        },
+        {
+          "id": "lnhxvez",
+          "name": "Транспорт",
+          "amount": 4268
+        },
+        {
+          "id": "84g4ut8",
+          "name": "Кафе и рестораны",
+          "amount": 8106
+        },
+        {
+          "id": "zc100eg",
+          "name": "Интернет и связь",
+          "amount": 13005
+        },
+        {
+          "id": "18pq6ee",
+          "name": "Хобби",
+          "amount": 21007
+        },
+        {
+          "id": "c044nmn",
+          "name": "Продукты питания",
+          "amount": 8136
+        },
+        {
+          "id": "g8k4mra",
+          "name": "Крупная/Спонтанная покупка",
+          "amount": 94471
+        }
+      ]
+    },
+    "2025-09": {
+      "income": 198940,
+      "savingsGoal": 46568,
+      "expenses": [
+        {
+          "id": "xeqy2tz",
+          "name": "Аптека",
+          "amount": 16070
+        },
+        {
+          "id": "m29fzdw",
+          "name": "Автомобиль",
+          "amount": 15421
+        },
+        {
+          "id": "wy85de1",
+          "name": "Продукты питания",
+          "amount": 9355
+        },
+        {
+          "id": "3v9bi7e",
+          "name": "Интернет и связь",
+          "amount": 9086
+        },
+        {
+          "id": "6qfobxx",
+          "name": "Кафе и рестораны",
+          "amount": 22729
+        }
+      ]
+    },
+    "2025-10": {
+      "income": 189160,
+      "savingsGoal": 41340,
+      "expenses": [
+        {
+          "id": "d2uqfuo",
+          "name": "Кафе и рестораны",
+          "amount": 3985
+        },
+        {
+          "id": "itcjrvf",
+          "name": "Транспорт",
+          "amount": 13602
+        },
+        {
+          "id": "ix4at1w",
+          "name": "Интернет и связь",
+          "amount": 22481
+        },
+        {
+          "id": "xmidg21",
+          "name": "Автомобиль",
+          "amount": 10704
+        },
+        {
+          "id": "5yzxq8c",
+          "name": "Хобби",
+          "amount": 13720
+        },
+        {
+          "id": "1gzmgzs",
+          "name": "Аптека",
+          "amount": 7068
+        },
+        {
+          "id": "x58iaq3",
+          "name": "Крупная/Спонтанная покупка",
+          "amount": 87873
+        }
+      ]
+    },
+    "2025-11": {
+      "income": 115293,
+      "savingsGoal": 21136,
+      "expenses": [
+        {
+          "id": "5cn9ryg",
+          "name": "Одежда",
+          "amount": 11787
+        },
+        {
+          "id": "55jkwo5",
+          "name": "Автомобиль",
+          "amount": 12070
+        },
+        {
+          "id": "ifuojme",
+          "name": "Транспорт",
+          "amount": 12562
+        },
+        {
+          "id": "hbveuq9",
+          "name": "Аптека",
+          "amount": 10760
+        },
+        {
+          "id": "62q1q14",
+          "name": "Интернет и связь",
+          "amount": 10116
+        },
+        {
+          "id": "y1o9qdv",
+          "name": "Аренда",
+          "amount": 12965
+        }
+      ]
+    },
+    "2025-12": {
+      "income": 134242,
+      "savingsGoal": 22553,
+      "expenses": [
+        {
+          "id": "6bfi0jo",
+          "name": "Хобби",
+          "amount": 17917
+        },
+        {
+          "id": "yssi2wv",
+          "name": "Одежда",
+          "amount": 21227
+        },
+        {
+          "id": "ew4wfek",
+          "name": "Аренда",
+          "amount": 6199
+        },
+        {
+          "id": "rsq94tn",
+          "name": "Продукты питания",
+          "amount": 5413
+        },
+        {
+          "id": "7aawqd3",
+          "name": "Аптека",
+          "amount": 10760
+        },
+        {
+          "id": "bf3723e",
+          "name": "Интернет и связь",
+          "amount": 16175
+        }
+      ]
+    },
+    "2026-01": {
+      "income": 129574,
+      "savingsGoal": 28750,
+      "expenses": [
+        {
+          "id": "k2m9m86",
+          "name": "Транспорт",
+          "amount": 4469
+        },
+        {
+          "id": "h0olk3e",
+          "name": "Интернет и связь",
+          "amount": 5485
+        },
+        {
+          "id": "wz50nyv",
+          "name": "Кафе и рестораны",
+          "amount": 10559
+        },
+        {
+          "id": "1257ep6",
+          "name": "Продукты питания",
+          "amount": 16470
+        },
+        {
+          "id": "ckhsbzb",
+          "name": "Автомобиль",
+          "amount": 19650
+        },
+        {
+          "id": "81gyli0",
+          "name": "Хобби",
+          "amount": 7380
+        },
+        {
+          "id": "517t8zp",
+          "name": "Одежда",
+          "amount": 19764
+        }
+      ]
+    },
+    "2026-02": {
+      "income": 107185,
+      "savingsGoal": 26259,
+      "expenses": [
+        {
+          "id": "4d5he4c",
+          "name": "Аптека",
+          "amount": 13970
+        },
+        {
+          "id": "pi2oh2r",
+          "name": "Транспорт",
+          "amount": 19630
+        },
+        {
+          "id": "b1zsg4u",
+          "name": "Интернет и связь",
+          "amount": 13813
+        },
+        {
+          "id": "3qqzwzc",
+          "name": "Автомобиль",
+          "amount": 21272
+        },
+        {
+          "id": "n0dc2e2",
+          "name": "Одежда",
+          "amount": 16848
+        }
+      ]
+    },
+    "2026-03": {
+      "income": 113008,
+      "savingsGoal": 17590,
+      "expenses": [
+        {
+          "id": "iu8ys6d",
+          "name": "Аптека",
+          "amount": 12533
+        },
+        {
+          "id": "7wsg5vc",
+          "name": "Хобби",
+          "amount": 20426
+        },
+        {
+          "id": "fouiixp",
+          "name": "Кафе и рестораны",
+          "amount": 3916
+        },
+        {
+          "id": "0aas6u6",
+          "name": "Интернет и связь",
+          "amount": 18078
+        },
+        {
+          "id": "gcj5j5i",
+          "name": "Аренда",
+          "amount": 7691
+        },
+        {
+          "id": "n9u32yj",
+          "name": "Одежда",
+          "amount": 6240
+        },
+        {
+          "id": "uwp5jea",
+          "name": "Продукты питания",
+          "amount": 5357
+        }
+      ]
+    }
+  },
+  "currency": "RUB",
+  "includeLeftover": true,
+  "theme": "dark",
+  "language": "RU"
+}
